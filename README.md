@@ -1,0 +1,2 @@
+# Connecting-ESP-8266-to-router-with-or-without-Internet-
+//Human can automate every thing in this world, except humans!!!! //sameerEdlabadkar //This code is basically works on pure web server protocol with or without internet (using router or mobile hotspot) //firstly you need to updatd the wifi credential wirelessly through the given web page (in serial monitor). // after that this device will automatically connect to that connection
